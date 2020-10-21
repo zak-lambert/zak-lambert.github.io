@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: 
   card: summary
-logo: logo.gif
+# logo: logo.gif
 # social:
 #   name: Zak Lambert
 #   links:
