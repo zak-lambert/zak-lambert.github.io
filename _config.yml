@@ -1,7 +1,7 @@
 title: Zak Lambert
-description: A little bit about Zak
+description: 
 author: Zak Lambert
-avatar: /logo.png
+avatar: /logo.jpf
 email: lambert.zak@gmail.com
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: 
   card: summary
-logo: logo.png
+logo: logo.jpf
 social:
   name: Zak Lambert
   links:
