@@ -1,7 +1,7 @@
 title: Zak Lambert
 description: 
 author: Zak Lambert
-avatar: /logo.jpf
+avatar: /logo.gif
 email: lambert.zak@gmail.com
 
 plugins:
@@ -32,12 +32,12 @@ exclude:
 twitter:
   username: 
   card: summary
-logo: logo.jpf
-social:
-  name: Zak Lambert
-  links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
-# google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+logo: logo.gif
+# social:
+#   name: Zak Lambert
+#   links:
+#     - https://twitter.com/ngzhio
+#     - https://www.facebook.com/ngzhio
+#     - https://github.com/ngzhio
+# # google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
